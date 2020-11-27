@@ -9,10 +9,10 @@ namespace DO_faka_to_dať
         public string title;
         private int pages;
 
-        public Book(string title, int pages)
+        public Book(string title)
         {
             this.title = title;
-            this.pages = pages;
+           
         }
     }
 }

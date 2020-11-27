@@ -6,7 +6,7 @@ namespace DO_faka_to_dať
     {
         static void Main(string[] args)
         {
-            Book LOTR = new Book("Rozprávka", 60);
+            Book LOTR = new Book("Rozprávka");
 
             Console.WriteLine(LOTR.title);
             
